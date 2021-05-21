@@ -12,7 +12,7 @@ I am a masters student at [The Cooper Union](http://cooper.edu/welcome) working 
 ## Contact:
 There is nothing better than chatting and sharing my work with others :) 
 
-You can get in touch with me through [Linkedin](https://www.linkedin.com/in/yuval-epstain-ofek-6647a314a/) or via [email](/email) . 
+You can get in touch with me through [Linkedin](https://www.linkedin.com/in/yuval-epstain-ofek-6647a314a/) or via [email](/email.JPG) . 
 
 <!--
 **yuvalofek/yuvalofek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
