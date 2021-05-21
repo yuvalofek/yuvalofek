@@ -10,7 +10,9 @@ I am a masters student at [The Cooper Union](http://cooper.edu/welcome) working 
 [![Deep Learning Card](https://github-readme-stats.vercel.app/api/pin/?username=yuvalofek&repo=Deep-Learning)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact:
-There is nothing better than chatting and sharing my work with others :) You can find me on [Linkedin](https://www.linkedin.com/in/yuval-epstain-ofek-6647a314a/). 
+There is nothing better than chatting and sharing my work with others :) 
+
+You can get in touch with me through [Linkedin](https://www.linkedin.com/in/yuval-epstain-ofek-6647a314a/) or via [email](/email) . 
 
 <!--
 **yuvalofek/yuvalofek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
