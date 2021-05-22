@@ -4,7 +4,7 @@ I am a masters student at [The Cooper Union](http://cooper.edu/welcome) working 
 
 ## Some of my favorite work:
 [![Remote Sensing Card](https://github-readme-stats.vercel.app/api/pin/?username=yuvalofek&repo=Remote-Sensing)](https://github.com/yuvalofek/Remote-Sensing)
-[![SPACY-Crop Yield Prediction](https://github-readme-stats.vercel.app/api/pin/?username=rlee360&repo=PLaTYPI)](https://github.com/rlee360/PLaTYPI)
+[![SPACY-Crop Yield Prediction](https://github-readme-stats.vercel.app/api/pin/?username=yuvalofek&repo=SPACY)](https://github.com/yuvalofek/SPACY)
 [![NLP Card](https://github-readme-stats.vercel.app/api/pin/?username=yuvalofek&repo=NLP)](https://github.com/yuvalofek/NLP)
 [![Deep Learning Card](https://github-readme-stats.vercel.app/api/pin/?username=yuvalofek&repo=Deep-Learning)](https://github.com/yuvalofek/Deep-Learning)
 [![DIP Card](https://github-readme-stats.vercel.app/api/pin/?username=yuvalofek&repo=Digital-Image-Processing)](https://github.com/yuvalofek/Digital-Image-Processing)
