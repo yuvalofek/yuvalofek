@@ -1,6 +1,6 @@
 # Nice to meet you, I'm Yuval! 👋
 
-I am a masters student at [The Cooper Union](http://cooper.edu/welcome) working on a thesis focusing on applying computer vision and digital image processing practices to  satellite data (a topic which I hope to refine further in the coming months). 
+I am a masters student at [The Cooper Union](http://cooper.edu/welcome) working on a thesis focusing on applying **computer vision** and **digital image processing** practices to  satellite data (a topic which I hope to refine further in the coming months). 
 
 ## Some of my favorite work:
 [![Remote Sensing Card](https://github-readme-stats.vercel.app/api/pin/?username=yuvalofek&repo=Remote-Sensing)](https://github.com/yuvalofek/Remote-Sensing)
