@@ -1,8 +1,8 @@
 # Nice to meet you, I'm Yuval! 👋
 
-I am a masters student at [The Cooper Union](http://cooper.edu/welcome) working on a thesis focusing on applying **computer vision** and **digital image processing** practices to  satellite data (a topic which I hope to refine further in the coming months). 
+I am a masters student at [The Cooper Union](http://cooper.edu/welcome) working on a thesis focusing on applying **computer vision** and **digital image processing** to  satellite data, exploring different techniques to increase satellite temporal resolution. 
 
-In my free time I enjoy cooking (right now I am particularly enjoying David Thompson's *Thai Food*, Gonzalo Guzmán's *Nopalito*, & Martin Morales' *Ceviche*), reading (papers, novels, and occationally breezing through interesting textbooks), and learning new things that may or may not be useful (juggling, pencil twirls, Diablo, etc.).
+In my free time I enjoy cooking, reading, and learning new things!
 
 ## Some of my favorite work:
 [![Remote Sensing Card](https://github-readme-stats.vercel.app/api/pin/?username=yuvalofek&repo=Remote-Sensing)](https://github.com/yuvalofek/Remote-Sensing)
