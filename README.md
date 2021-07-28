@@ -1,6 +1,6 @@
 # Nice to meet you, I'm Yuval! 👋
 
-I am a masters student at [The Cooper Union](http://cooper.edu/welcome) working on a thesis focusing on applying **computer vision** and **digital image processing** to  satellite data, exploring different techniques to increase satellite temporal resolution. 
+I am a masters student at [The Cooper Union](http://cooper.edu/welcome) working on a thesis focusing on applying **computer vision** and **digital video processing** to  satellite data, exploring different techniques to increase satellite temporal resolution. 
 
 In my free time I enjoy cooking, reading, and learning new things!
 
