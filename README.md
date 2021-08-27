@@ -11,7 +11,7 @@ I am a masters student at [The Cooper Union](http://cooper.edu/welcome) working 
 
 * **[DefensiveLayer](https://github.com/yuvalofek/DefensiveLayer) (Tensorflow, Foolbox)** - My first try at independent deep-learning based research (and I loved it!). My partner and I decided to investigate the use of intra-network layers as a way to defend against adversarial attacks, turns out they help! (but also reduce accuracy, so this ends up being a tradeoff). 
 
-* **[Financial Signal Processing (course)](https://github.com/yuvalofek/Financial-Signal-Processing) (Markov chains, Monte Carlo Simulations, Stochastic Differential Equations, time-series analysis, ARMA, GARCH)** - A collection of projects dealing with finance but using a lot of really cool techniques. I loved learning about all the cool tools used to model financial data, and even more so loved to code them up myself and learn to use them. 
+* **[Financial Signal Processing (course)](https://github.com/yuvalofek/Financial-Signal-Processing) (Markov chains, Monte Carlo Simulations, Stochastic Differential Equations, Time-Series Analysis, ARMA, GARCH)** - A collection of projects dealing with finance but using a lot of really cool techniques. I loved learning about all the cool tools used to model financial data, and even more so loved to code them up myself and learn to use them. 
 
 
 ## Contact:
