@@ -1,6 +1,6 @@
 # Nice to meet you, I'm Yuval! 👋
 
-I am a masters student at [The Cooper Union](http://cooper.edu/welcome) working on a increasing the accuracy of flood-map models through increasing the temporal resolution of satellite imagery.  
+I am a masters student at [The Cooper Union](http://cooper.edu/welcome) working on a increasing the accuracy of flood-map models through increasing the temporal resolution of satellite imagery. I love visualizations that get to the point of the matter, planning slide-decks for greater impact, and presenting my work to others. 
 
 ## Some of my favorite work:
 * **[S.P.P.P.A.C.Y.](https://github.com/yuvalofek/SPACY) (Tensorflow, tf.data, Google Earth Engine- Python API)** - We designed and made a machine learning algorithm that takes satellite imagery and predicts crop-yield on a pixel-wise basis. The project had us wrestle with lack of sufficient labels (we could only find aggregate yield values per county), as well as with creating a clean costume dataset. What was really cool, in my opinion, was that we used histograms to help generalize the aggregate, county-level, yield labels to any scale input. [\[Final Presentation\]](https://www.slideshare.net/secret/NsCczeamHp8A9Z) [\[Report\]](https://github.com/yuvalofek/SPPPACY/blob/master/ECE471_Final_Paper.pdf)
