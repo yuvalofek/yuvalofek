@@ -18,7 +18,7 @@ I am a masters student at [The Cooper Union](http://cooper.edu/welcome) working 
 * **[Frequentist Machine Learning Projects](https://github.com/yuvalofek/FrequentistML) (Sklearn, Xgboost, Mlxtend, Surprise, NumPy, Pandas, Seaborn, Matplotlib)** - Course projects
 * **[Remote Sensing projects](https://github.com/yuvalofek/Remote-Sensing) (TensorFlow, Sklearn, Pandas, NumPy, Seaborn, Matplotlib, Rasterio, GDAL, Folium)** - Course projects
 * **[Natural Language Processing](https://github.com/yuvalofek/NLP) (NumPy, Pandas, NLTK, Logging, Argparse, PyTorch)** - Course projects
-* **[Sound & Space](https://github.com/yuvalofek/Sound_and_Space/tree/master/PS1SoundSpace) (Matlab)** - Coursework
+* **[Sound & Space](https://github.com/yuvalofek/Sound_and_Space) (Matlab)** - Coursework
 
 
 ## Contact:
