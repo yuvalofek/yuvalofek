@@ -1,6 +1,14 @@
 # Nice to meet you, I'm Yuval! 👋
 
-I am a masters student at [The Cooper Union](http://cooper.edu/welcome) working on a increasing the accuracy of flood-map models through increasing the temporal resolution of satellite imagery. I love visualizations that get to the point of the matter, planning slide-decks for greater impact, and presenting my work to others. 
+I am a masters student at [The Cooper Union](http://cooper.edu/welcome) working on a improving flood-mapping ml models by increasing the temporal resolution of satellite imagery. I love working on this project because of its incredible potential to help others. 
+
+## Get in touch with me!
+There is nothing better than chatting and sharing my work with others.
+
+You can find me on [Linkedin](https://www.linkedin.com/in/yuval-epstain-ofek-6647a314a/) or via [email](/email.JPG). 
+
+
+
 
 ## Some of my favorite work:
 * **[S.P.P.P.A.C.Y.](https://github.com/yuvalofek/SPACY) (Tensorflow, tf.data, Google Earth Engine- Python API)** - We designed and made a machine learning algorithm that takes satellite imagery and predicts crop-yield on a pixel-wise basis. The project had us wrestle with lack of sufficient labels (we could only find aggregate yield values per county), as well as with creating a clean costume dataset. What was really cool, in my opinion, was that we used histograms to help generalize the aggregate, county-level, yield labels to any scale input. [\[Final Presentation\]](https://www.slideshare.net/secret/NsCczeamHp8A9Z) [\[Report\]](https://github.com/yuvalofek/SPPPACY/blob/master/ECE471_Final_Paper.pdf)
@@ -21,11 +29,6 @@ I am a masters student at [The Cooper Union](http://cooper.edu/welcome) working 
 * **[Natural Language Processing](https://github.com/yuvalofek/NLP) (NumPy, Pandas, NLTK, Logging, Argparse, PyTorch)** - Course projects
 * **[Sound & Space](https://github.com/yuvalofek/Sound_and_Space) (Matlab)** - Coursework
 
-
-## Contact:
-There is nothing better than chatting and sharing my work with others :) 
-
-You can get in touch with me through [Linkedin](https://www.linkedin.com/in/yuval-epstain-ofek-6647a314a/) or via [email](/email.JPG). 
 
 <!--
 **yuvalofek/yuvalofek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
