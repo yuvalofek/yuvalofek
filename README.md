@@ -15,7 +15,7 @@ Find me on [Linkedin](https://www.linkedin.com/in/yuval-epstain-ofek-6647a314a/)
 ### Some of my favorite work:
 * **[S.P.P.P.A.C.Y.](https://github.com/yuvalofek/SPACY) (Tensorflow, tf.data, Google Earth Engine- Python API)** - Full stack data science project to take satellite imagery and predicts crop-yield on a pixel-wise basis without being biased by current land usage [\[Final Presentation\]](https://www.slideshare.net/secret/NsCczeamHp8A9Z) [\[Report\]](https://github.com/yuvalofek/SPPPACY/blob/master/ECE471_Final_Paper.pdf).
 
-* **[Data Science for Social Good](https://ee.cooper.edu/~keene/dssgOverview.html) (Pandas, Scikit-learn, Scipy, Group-lasso, Seaborn)** - Volunteer work to interpret data and increase costumer retention. The analysis we performed helped the team redesign their intake surveys and got the upper management to hire full-time data scientists! [No links available due to the nature of the work]
+* **[Data Science for Social Good](https://ee.cooper.edu/~keene/dssgOverview.html) (Pandas, Scikit-learn, Scipy, Group-lasso, Seaborn)** - Volunteer work to interpret data and increase costumer retention. The analysis we performed helped the team redesign their intake surveys and got the upper management to hire full-time data scientists!
 
 * **[DanceMuse](https://tinydance.github.io/) (Bash, PyTorch, Slurm, FFmpeg, OpenPose)** - Year long project dedicated to increasing the ease of use of dance-generation deep learning models so that they can be a tool for the artist community [\[Repo\]](https://github.com/tinydance/DanceMuse) [\[Final Presentation\]](https://www.slideshare.net/YuvalEpstainOfek/dance-muse-inspiring-choreography-through-ai-noartists/secret/sobQhXC7s1HQQ0).
 
