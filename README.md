@@ -23,8 +23,13 @@ Find me on [Linkedin](https://www.linkedin.com/in/yuval-epstain-ofek-6647a314a/)
 
 * **[Financial Signal Processing (course)](https://github.com/yuvalofek/Financial-Signal-Processing) (Markov chains, Monte Carlo Simulations, Stochastic Differential Equations, Time-Series Analysis, ARMA, GARCH)** - A collection of projects dealing with finance and simulating financial data using a lot of really cool signal processing techniques. 
 
+### Current Work:
+* [I committed to doing code-related things EVERY DAY of October!](https://github.com/yuvalofek/30DaysOfCode)
 
 ### Other Work I Have Done:
+* **[Under 30DaysOfCode](https://github.com/yuvalofek/30DaysOfCode)**
+  * **[Multithreading Matrix Multiplication](https://github.com/yuvalofek/MultiprocessingMatMul) (concurrent.futures, Threading, Threading)** - Compared different multithreading techniques for matrix multiplication
+  * **[Implementing Xgboost from scratch](https://github.com/yuvalofek/py_xgboost) (Xgboost, matplotlib, plotly)** - Implemented Xgboost using only Python (and a bit of NumPy)
 * **[Digital Image Processing - Super-resolution](https://github.com/yuvalofek/Digital-Image-Processing) (PyTorch, OpenCV)** - Independent study of super resolution (implemented [LapSRN](http://vllab.ucmerced.edu/wlai24/LapSRN/))
 * **[Frequentist Machine Learning Projects](https://github.com/yuvalofek/FrequentistML) (Sklearn, Xgboost, Mlxtend, Surprise, NumPy, Pandas, Seaborn, Matplotlib)** - Learning about and working with a collection of machine learning algorithms
 * **[Remote Sensing projects](https://github.com/yuvalofek/Remote-Sensing) (TensorFlow, Sklearn, Pandas, NumPy, Seaborn, Matplotlib, Rasterio, GDAL, Folium)** - Desigining deep learning tools for remote sesning and conducting analysis of spatial data. 
