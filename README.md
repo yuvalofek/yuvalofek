@@ -35,6 +35,7 @@ Find me on [Linkedin](https://www.linkedin.com/in/yuval-epstain-ofek-6647a314a/)
 * **[Remote Sensing projects](https://github.com/yuvalofek/Remote-Sensing) (TensorFlow, Sklearn, Pandas, NumPy, Seaborn, Matplotlib, Rasterio, GDAL, Folium)** - Desigining deep learning tools for remote sesning and conducting analysis of spatial data. 
 * **[Natural Language Processing](https://github.com/yuvalofek/NLP) (NumPy, Pandas, NLTK, Logging, Argparse, PyTorch)** - Collection of machine learning and deep learning projects in nlp
 * **[Sound & Space](https://github.com/yuvalofek/Sound_and_Space) (Matlab)** - Learning about sound and acoustics
+* **[GEE_Downloader](https://github.com/yuvalofek/GEE_Downloader) (Google Earth Engine, GeeMap)** - CL tool to download Google Earth Engine Imagery by dates
 
 
 <!--
