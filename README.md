@@ -28,8 +28,8 @@ Find me on [Linkedin](https://www.linkedin.com/in/yuval-epstain-ofek-6647a314a/)
 * **[Digital Image Processing - Super-resolution](https://github.com/yuvalofek/Digital-Image-Processing) (PyTorch, OpenCV)** - Independent study of super resolution (implemented [LapSRN](http://vllab.ucmerced.edu/wlai24/LapSRN/))
 * **[Frequentist Machine Learning Projects](https://github.com/yuvalofek/FrequentistML) (Sklearn, Xgboost, Mlxtend, Surprise, NumPy, Pandas, Seaborn, Matplotlib)** - Learning about and working with a collection of machine learning algorithms
 * **[Remote Sensing projects](https://github.com/yuvalofek/Remote-Sensing) (TensorFlow, Sklearn, Pandas, NumPy, Seaborn, Matplotlib, Rasterio, GDAL, Folium)** - Desigining deep learning tools for remote sesning and conducting analysis of spatial data. 
-* **[Natural Language Processing](https://github.com/yuvalofek/NLP) (NumPy, Pandas, NLTK, Logging, Argparse, PyTorch)** - collection of ml and deep learning projects in nlp
-* **[Sound & Space](https://github.com/yuvalofek/Sound_and_Space) (Matlab)** - learning about sound and acoustics
+* **[Natural Language Processing](https://github.com/yuvalofek/NLP) (NumPy, Pandas, NLTK, Logging, Argparse, PyTorch)** - Collection of machine learning and deep learning projects in nlp
+* **[Sound & Space](https://github.com/yuvalofek/Sound_and_Space) (Matlab)** - Learning about sound and acoustics
 
 
 <!--
