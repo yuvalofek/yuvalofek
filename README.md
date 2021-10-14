@@ -28,7 +28,7 @@ Find me on [Linkedin](https://www.linkedin.com/in/yuval-epstain-ofek-6647a314a/)
 
 ### Other Work I Have Done:
 * **[Under 30DaysOfCode](https://github.com/yuvalofek/30DaysOfCode)**
-  * **[Multithreading Matrix Multiplication](https://github.com/yuvalofek/MultiprocessingMatMul) (concurrent.futures, Threading, Threading)** - Compared different multithreading techniques for matrix multiplication
+  * **[Multithreading Matrix Multiplication](https://github.com/yuvalofek/MultiprocessingMatMul) (concurrent.futures, Threading, Mulitprocessing)** - Compared different multithreading techniques for matrix multiplication
   * **[Implementing Xgboost from scratch](https://github.com/yuvalofek/py_xgboost) (Xgboost, matplotlib, plotly)** - Implemented Xgboost using only Python (and a bit of NumPy)
 * **[Digital Image Processing - Super-resolution](https://github.com/yuvalofek/Digital-Image-Processing) (PyTorch, OpenCV)** - Independent study of super resolution (implemented [LapSRN](http://vllab.ucmerced.edu/wlai24/LapSRN/))
 * **[Frequentist Machine Learning Projects](https://github.com/yuvalofek/FrequentistML) (Sklearn, Xgboost, Mlxtend, Surprise, NumPy, Pandas, Seaborn, Matplotlib)** - Learning about and working with a collection of machine learning algorithms
