@@ -13,31 +13,31 @@ Find me on [Linkedin](https://www.linkedin.com/in/yuval-epstain-ofek-6647a314a/)
 
 
 ### Some of my favorite work:
-* **[S.P.P.P.A.C.Y.](https://github.com/yuvalofek/SPACY) (Tensorflow, tf.data, Google Earth Engine- Python API)** - Full stack data science project to take satellite imagery and predicts crop-yield on a pixel-wise basis without being biased by current land usage [\[Final Presentation\]](https://www.slideshare.net/secret/NsCczeamHp8A9Z) [\[Report\]](https://github.com/yuvalofek/SPPPACY/blob/master/ECE471_Final_Paper.pdf).
+* **[S.P.P.P.A.C.Y.](https://github.com/yuvalofek/SPACY) (Deep Learning, Feature Engineering, Data Collection, Data Wrangling, Visualization)** - Full stack data science project to take satellite imagery and predicts crop-yield on a pixel-wise basis without being biased by current land usage [\[Final Presentation\]](https://www.slideshare.net/secret/NsCczeamHp8A9Z) [\[Report\]](https://github.com/yuvalofek/SPPPACY/blob/master/ECE471_Final_Paper.pdf).
 
-* **[Data Science for Social Good](https://ee.cooper.edu/~keene/dssgOverview.html) (Pandas, Scikit-learn, Scipy, Group-lasso, Seaborn)** - Volunteer work to interpret data and increase costumer retention. The analysis we performed helped the team redesign their intake surveys and got the upper management to hire full-time data scientists!
+* **[Data Science for Social Good](https://ee.cooper.edu/~keene/dssgOverview.html) (Data Exploration, Data Modeling, Data Analysis, Machine Learning, Visualization)** - Volunteer work to interpret data and increase costumer retention. The analysis we performed helped the team redesign their intake surveys and got the upper management to hire full-time data scientists!
 
-* **[DanceMuse](https://tinydance.github.io/) (Bash, PyTorch, Slurm, FFmpeg, OpenPose)** - Year long project dedicated to increasing the ease of use of dance-generation deep learning models so that they can be a tool for the artist community [\[Repo\]](https://github.com/tinydance/DanceMuse) [\[Final Presentation\]](https://www.slideshare.net/YuvalEpstainOfek/dance-muse-inspiring-choreography-through-ai-noartists/secret/sobQhXC7s1HQQ0).
+* **[DanceMuse](https://tinydance.github.io/) (Automation, Data Pipelines, Audio Manipulation, Pose Extraction)** - Year long project dedicated to increasing the ease of use of dance-generation deep learning models so that they can be a tool for the artist community [\[Repo\]](https://github.com/tinydance/DanceMuse) [\[Final Presentation\]](https://www.slideshare.net/YuvalEpstainOfek/dance-muse-inspiring-choreography-through-ai-noartists/secret/sobQhXC7s1HQQ0).
 
-* **[DefensiveLayer](https://github.com/yuvalofek/DefensiveLayer) (Tensorflow, Foolbox)** - An investigation of the use of intra-network layers as a way to defend against adversarial attacks, turns out they help! (but also reduce accuracy, so this ends up being a tradeoff). [\[Final Presentation\]](https://www.slideshare.net/secret/KU6C3Q9xmioRiU) [\[Report\]](https://github.com/yuvalofek/DefensiveLayer/blob/main/Defending_Against_Adversarial_Attacks_One_Layer_at_a_Time.pdf)
+* **[DefensiveLayer](https://github.com/yuvalofek/DefensiveLayer) (Deep Learning, Adversarial Attacks, Defence Against Adversarial Attacks)** - An investigation of the use of intra-network layers as a way to defend against adversarial attacks, turns out they help! (but also reduce accuracy, so this ends up being a tradeoff). [\[Final Presentation\]](https://www.slideshare.net/secret/KU6C3Q9xmioRiU) [\[Report\]](https://github.com/yuvalofek/DefensiveLayer/blob/main/Defending_Against_Adversarial_Attacks_One_Layer_at_a_Time.pdf)
 
-* **[Financial Signal Processing (course)](https://github.com/yuvalofek/Financial-Signal-Processing) (Markov chains, Monte Carlo Simulations, Stochastic Differential Equations, Time-Series Analysis, ARMA, GARCH)** - A collection of projects dealing with finance and simulating financial data using a lot of really cool signal processing techniques. 
+* **[Financial Signal Processing (course)](https://github.com/yuvalofek/Financial-Signal-Processing) (Time-Series Analysis, Monte Carlo Simulations, Stochastic Differential Equations)** - A collection of projects dealing with finance and simulating financial data using a lot of really cool signal processing techniques. 
 
 ### Current Work:
 * [I committed to doing code-related things EVERY DAY of October!](https://github.com/yuvalofek/30DaysOfCode)
 
 ### Other Work I Have Done:
 * **[Under 30DaysOfCode](https://github.com/yuvalofek/30DaysOfCode)**
-  * **[Multithreading Matrix Multiplication](https://github.com/yuvalofek/MultiprocessingMatMul) (concurrent.futures, Threading, Mulitprocessing)** - Compared different multithreading techniques for matrix multiplication
-  * **[Implementing Xgboost from scratch](https://github.com/yuvalofek/py_xgboost) (Xgboost, matplotlib, plotly)** - Implemented Xgboost using only Python (and a bit of NumPy)
+  * **[Multithreading Matrix Multiplication](https://github.com/yuvalofek/MultiprocessingMatMul) (Parallelization, Linear Algebra)** - Compared different multithreading techniques for matrix multiplication
+  * **[Implementing Xgboost from scratch](https://github.com/yuvalofek/py_xgboost) (Machine Learning, Extreme Gradient Boosted Trees, Visualization)** - Implemented Xgboost using only Python (and a bit of NumPy)
   * **[Implemented Othello in C++](https://github.com/yuvalofek/othello)(C++, OOP)** - Implemented the Othello board game using C++ and only stdlib imports
-  * **[Scraping and Analyzing a Light-Novel Dataset](https://github.com/yuvalofek/scraping-light-novel-data) (bs4, requests, pandas, seaborn, matplotlib, re)** - Figured out the best specifications for writing a light novel
-* **[GEE_Downloader](https://github.com/yuvalofek/GEE_Downloader) (Google Earth Engine, GeeMap)** - CL tool to download Google Earth Engine Imagery by dates
-* **[Digital Image Processing - Super-resolution](https://github.com/yuvalofek/Digital-Image-Processing) (PyTorch, OpenCV)** - Independent study of super resolution (implemented [LapSRN](http://vllab.ucmerced.edu/wlai24/LapSRN/))
-* **[Frequentist Machine Learning Projects](https://github.com/yuvalofek/FrequentistML) (Sklearn, Xgboost, Mlxtend, Surprise, NumPy, Pandas, Seaborn, Matplotlib)** - Learning about and working with a collection of machine learning algorithms
-* **[Remote Sensing projects](https://github.com/yuvalofek/Remote-Sensing) (TensorFlow, Sklearn, Pandas, NumPy, Seaborn, Matplotlib, Rasterio, GDAL, Folium)** - Desigining deep learning tools for remote sesning and conducting analysis of spatial data. 
-* **[Natural Language Processing](https://github.com/yuvalofek/NLP) (NumPy, Pandas, NLTK, Logging, Argparse, PyTorch)** - Collection of machine learning and deep learning projects in nlp
-* **[Sound & Space](https://github.com/yuvalofek/Sound_and_Space) (Matlab)** - Learning about sound and acoustics
+  * **[Scraping and Analyzing a Light-Novel Dataset](https://github.com/yuvalofek/scraping-light-novel-data) (Scraping, Data Exploration, Data Analysis, Visualization)** - Figured out the best specifications for writing a light novel
+* **[GEE_Downloader](https://github.com/yuvalofek/GEE_Downloader) (Automation)** - CL tool to download Google Earth Engine Imagery by dates
+* **[Digital Image Processing - Super-resolution](https://github.com/yuvalofek/Digital-Image-Processing) (Deep Learning, Computer Vision, Super-Resolution, Signal Processing)** - Independent study of super resolution (implemented [LapSRN](http://vllab.ucmerced.edu/wlai24/LapSRN/))
+* **[Frequentist Machine Learning Projects](https://github.com/yuvalofek/FrequentistML) (Machine Learning, Supervised Learning, Unsupervised Learning, Linear Algebra, Visualization)** - Learning about and working with a collection of machine learning algorithms
+* **[Remote Sensing projects](https://github.com/yuvalofek/Remote-Sensing) (Deep Learning, Machine Learning, Data Wrangling, Geo-Spatial Data, Visualization, GIS, Cartography)** - Desigining deep learning tools for remote sesning and conducting analysis of spatial data. 
+* **[Natural Language Processing](https://github.com/yuvalofek/NLP) (Machine Learning, Document Classification, Parsing, Deep Learning, Sentiment Analysis)** - Collection of machine learning and deep learning projects in nlp
+* **[Sound & Space](https://github.com/yuvalofek/Sound_and_Space) (Matlab, Audio Manipulation)** - Learning about sound and acoustics
 
 
 <!--
