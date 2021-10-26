@@ -32,12 +32,12 @@ Find me on [Linkedin](https://www.linkedin.com/in/yuval-epstain-ofek-6647a314a/)
   * **[Implementing Xgboost from scratch](https://github.com/yuvalofek/py_xgboost) (Xgboost, matplotlib, plotly)** - Implemented Xgboost using only Python (and a bit of NumPy)
   * **[Implemented Othello in C++](https://github.com/yuvalofek/othello)(C++, OOP)** - Implemented the Othello board game using C++ and only stdlib imports
   * **[Scraping and Analyzing a Light-Novel Dataset](https://github.com/yuvalofek/scraping-light-novel-data) (bs4, requests, pandas, seaborn, matplotlib, re)** - Figured out the best specifications for writing a light novel
+* **[GEE_Downloader](https://github.com/yuvalofek/GEE_Downloader) (Google Earth Engine, GeeMap)** - CL tool to download Google Earth Engine Imagery by dates
 * **[Digital Image Processing - Super-resolution](https://github.com/yuvalofek/Digital-Image-Processing) (PyTorch, OpenCV)** - Independent study of super resolution (implemented [LapSRN](http://vllab.ucmerced.edu/wlai24/LapSRN/))
 * **[Frequentist Machine Learning Projects](https://github.com/yuvalofek/FrequentistML) (Sklearn, Xgboost, Mlxtend, Surprise, NumPy, Pandas, Seaborn, Matplotlib)** - Learning about and working with a collection of machine learning algorithms
 * **[Remote Sensing projects](https://github.com/yuvalofek/Remote-Sensing) (TensorFlow, Sklearn, Pandas, NumPy, Seaborn, Matplotlib, Rasterio, GDAL, Folium)** - Desigining deep learning tools for remote sesning and conducting analysis of spatial data. 
 * **[Natural Language Processing](https://github.com/yuvalofek/NLP) (NumPy, Pandas, NLTK, Logging, Argparse, PyTorch)** - Collection of machine learning and deep learning projects in nlp
 * **[Sound & Space](https://github.com/yuvalofek/Sound_and_Space) (Matlab)** - Learning about sound and acoustics
-* **[GEE_Downloader](https://github.com/yuvalofek/GEE_Downloader) (Google Earth Engine, GeeMap)** - CL tool to download Google Earth Engine Imagery by dates
 
 
 <!--
