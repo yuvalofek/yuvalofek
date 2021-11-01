@@ -24,7 +24,7 @@ Find me on [Linkedin](https://www.linkedin.com/in/yuval-epstain-ofek-6647a314a/)
 * **[Financial Signal Processing (course)](https://github.com/yuvalofek/Financial-Signal-Processing) (Time-Series Analysis, Monte Carlo Simulations, Stochastic Differential Equations)** - A collection of projects dealing with finance and simulating financial data using a lot of really cool signal processing techniques. 
 
 ### Current Work:
-* [I committed to doing code-related things EVERY DAY of October!](https://github.com/yuvalofek/30DaysOfCode)
+* Finishing up my master's thesis so I can graduate in December!
 
 ### Other Work I Have Done:
 * **[Under 30DaysOfCode](https://github.com/yuvalofek/30DaysOfCode)**
