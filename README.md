@@ -28,9 +28,9 @@ Find me on [Linkedin](https://www.linkedin.com/in/yuval-epstain-ofek-6647a314a/)
 
 ### Other Work I Have Done:
 * **[Wrote or interacted with code every day of October 2021](https://github.com/yuvalofek/30DaysOfCode)**
-* **[Tif Image Matcher](https://github.com/yuvalofek/tif_matcher)(Automation, Satellite Imagery, Data Tools, Parallelization)** Matches tif images by content when the naming is wrong
+* **[Tif Image Matcher](https://github.com/yuvalofek/tif_matcher) (Automation, Satellite Imagery, Data Tools, Parallelization)** Matches tif images by content when the naming is wrong
 * **[Scraping and Analyzing a Light-Novel Dataset](https://github.com/yuvalofek/scraping-light-novel-data) (Scraping, Data Exploration, Data Analysis, Visualization)** - Figured out the best specifications for writing a light novel  
-* **[Implemented Othello in C++](https://github.com/yuvalofek/othello)(C++, OOP)** - Implemented the Othello board game using C++ and only stdlib imports
+* **[Implemented Othello in C++](https://github.com/yuvalofek/othello) (C++, OOP)** - Implemented the Othello board game using C++ and only stdlib imports
 * **[Implementing Xgboost from scratch](https://github.com/yuvalofek/py_xgboost) (Machine Learning, Extreme Gradient Boosted Trees, Visualization)** - Implemented Xgboost using only Python (and a bit of NumPy)
 * **[Multithreading Matrix Multiplication](https://github.com/yuvalofek/MultiprocessingMatMul) (Parallelization, Linear Algebra)** - Compared different multithreading techniques for matrix multiplication
   
