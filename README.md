@@ -10,7 +10,8 @@ I am a master's student at [The Cooper Union](http://cooper.edu/welcome) working
 Find me on [Linkedin](https://www.linkedin.com/in/yuval-epstain-ofek-6647a314a/) or via [email](/email.JPG). 
 
 
-
+### Current Work:
+Finishing up my master's thesis so I can graduate in December!
 
 ### Some of my favorite work:
 * **[S.P.P.P.A.C.Y.](https://github.com/yuvalofek/SPACY) (Deep Learning, Feature Engineering, Data Collection, Data Wrangling, Visualization)** - Full stack data science project to take satellite imagery and predict crop-yield on a per-pixel basis without being biased by current land usage [\[Final Presentation\]](https://www.slideshare.net/secret/NsCczeamHp8A9Z) [\[Report\]](https://github.com/yuvalofek/SPPPACY/blob/master/ECE471_Final_Paper.pdf).
@@ -23,8 +24,6 @@ Find me on [Linkedin](https://www.linkedin.com/in/yuval-epstain-ofek-6647a314a/)
 
 * **[Financial Signal Processing (course)](https://github.com/yuvalofek/Financial-Signal-Processing) (Time-Series Analysis, Monte Carlo Simulations, Stochastic Differential Equations)** - A collection of projects dealing with finance and simulating financial data using a lot of really cool signal processing techniques. 
 
-### Current Work:
-* Finishing up my master's thesis so I can graduate in December!
 
 ### Other Work I Have Done:
 * **[Wrote or interacted with code every day of October 2021](https://github.com/yuvalofek/30DaysOfCode)**
