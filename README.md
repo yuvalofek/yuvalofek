@@ -13,7 +13,7 @@ Find me on [Linkedin](https://www.linkedin.com/in/yuval-epstain-ofek-6647a314a/)
 
 
 ### Some of my favorite work:
-* **[S.P.P.P.A.C.Y.](https://github.com/yuvalofek/SPACY) (Deep Learning, Feature Engineering, Data Collection, Data Wrangling, Visualization)** - Full stack data science project to take satellite imagery and predicts crop-yield on a pixel-wise basis without being biased by current land usage [\[Final Presentation\]](https://www.slideshare.net/secret/NsCczeamHp8A9Z) [\[Report\]](https://github.com/yuvalofek/SPPPACY/blob/master/ECE471_Final_Paper.pdf).
+* **[S.P.P.P.A.C.Y.](https://github.com/yuvalofek/SPACY) (Deep Learning, Feature Engineering, Data Collection, Data Wrangling, Visualization)** - Full stack data science project to take satellite imagery and predict crop-yield on a per-pixel basis without being biased by current land usage [\[Final Presentation\]](https://www.slideshare.net/secret/NsCczeamHp8A9Z) [\[Report\]](https://github.com/yuvalofek/SPPPACY/blob/master/ECE471_Final_Paper.pdf).
 
 * **[Data Science for Social Good](https://ee.cooper.edu/~keene/dssgOverview.html) (Data Exploration, Data Modeling, Data Analysis, Machine Learning, Visualization)** - Volunteer work to interpret data and increase costumer retention. The analysis we performed helped the team redesign their intake surveys and got the upper management to hire full-time data scientists!
 
