@@ -11,7 +11,7 @@ Find me on [Linkedin](https://www.linkedin.com/in/yuval-epstain-ofek-6647a314a/)
 
 
 ### Current Work:
-Finishing up my master's thesis so I can graduate in December!
+Finishing up my master's thesis so I can graduate in December! (update: thesis has been defended!) 
 
 ### Some of my favorite work:
 * **[Wrote or interacted with code every day of October 2021](https://github.com/yuvalofek/30DaysOfCode)**
