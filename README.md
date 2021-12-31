@@ -13,7 +13,7 @@ Find me on [Linkedin](https://www.linkedin.com/in/yuval-epstain-ofek-6647a314a/)
 Finishing up my master's thesis so I can graduate in December! (update: thesis has been defended!) 
 
 ### Some of my favorite work:
-* **[Wrote or interacted with code every day of October 2021](https://github.com/yuvalofek/30DaysOfCode)**
+* :scroll: **[30DaysOfCode October 2021](https://github.com/yuvalofek/30DaysOfCode) (Data skills, Machine Learning, Visualization, Coding Fundementals)** - Documentated of daily progress and worked through personal projects.
 
 * :artificial_satellite: **[S.P.P.P.A.C.Y.](https://github.com/yuvalofek/SPACY) (Deep Learning, Feature Engineering, Data Collection, Data Wrangling, Visualization)** - Full stack data science project to take satellite imagery and predict crop-yield on a per-pixel basis without being biased by current land usage [\[Final Presentation\]](https://www.slideshare.net/secret/NsCczeamHp8A9Z) [\[Report\]](https://github.com/yuvalofek/SPPPACY/blob/master/ECE471_Final_Paper.pdf).
 
