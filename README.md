@@ -1,7 +1,7 @@
 
 ### Hello there, I'm Yuval 👋
 
-I am a master's student at [The Cooper Union](http://cooper.edu/welcome) working on a improving flood-mapping machine learning tools by increasing the temporal resolution of satellite imagery :artificial_satellite:. I am fascinated by how we can use data to make the world a better place.
+I am a master's student at [The Cooper Union](http://cooper.edu/welcome) working on a improving flood-mapping machine learning tools by increasing the temporal resolution of satellite imagery. I am fascinated by how we can use data to make the world a better place.
 
 
 
