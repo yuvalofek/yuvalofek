@@ -9,7 +9,7 @@ Find me on [Linkedin](https://www.linkedin.com/in/yuval-epstain-ofek-6647a314a/)
 
 
 ### Current Work:
-Learning and doing personal projects a bit every day. Check out **[30DaysOfCode October 2021+](https://github.com/yuvalofek/30DaysOfCode)** for daily progress. 
+Learning and doing personal projects a bit every day. Check out **[30DaysOfCode](https://github.com/yuvalofek/30DaysOfCode)** for daily progress. 
 
 ### Some of my favorite work:
 * :scroll: **[30DaysOfCode October 2021+](https://github.com/yuvalofek/30DaysOfCode) (Data skills, Machine Learning, Visualization, Coding Fundementals)** - Documented daily progress and worked through personal projects.
