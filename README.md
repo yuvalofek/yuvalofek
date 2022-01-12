@@ -4,7 +4,7 @@
 I am a master's student at [The Cooper Union](http://cooper.edu/welcome) working on a improving flood-mapping machine learning tools by increasing the temporal resolution of satellite imagery. I am fascinated by how we can use data to make the world a better place.
 
 
-### Get in touch with me! 	:telephone_receiver:
+### Get in touch with me 	:telephone_receiver:
 Find me on [Linkedin](https://www.linkedin.com/in/yuval-epstain-ofek-6647a314a/) or via [email](/email.JPG). 
 
 
