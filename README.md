@@ -1,15 +1,15 @@
 
 ### Hello there, I'm Yuval 👋
 
-I am a master's student at [The Cooper Union](http://cooper.edu/welcome) working on a improving flood-mapping machine learning tools by increasing the temporal resolution of satellite imagery. I am fascinated by how we can use data to make the world a better place.
+I am a Data/Business Analyst at Morgan Stanley. I got my master's from [The Cooper Union](http://cooper.edu/welcome), where I worked on a improving flood-mapping tools by increasing the temporal resolution of satellite imagery using deep learning. I am fascinated by how we can use data to make the world a better place.
 
 
 ### Get in touch with me 	:telephone_receiver:
-Find me on [Linkedin](https://www.linkedin.com/in/yuval-epstain-ofek-6647a314a/) or via [email](/email.JPG). 
+Find me on [Linkedin](https://www.linkedin.com/in/yuval-epstain-ofek-6647a314a/).
 
 
 ### Current Work:
-Learning and doing personal projects a bit every day. Check out **[30DaysOfCode](https://github.com/yuvalofek/30DaysOfCode)** for daily progress. 
+I started my first job in Feb 2022! Since then, I have been putting all my efforts into figuring out what is valuble (for me) and what I can do to ensure I do more things I care about and less things I don't.
 
 ### Some of my favorite work:
 * :scroll: **[30DaysOfCode October 2021+](https://github.com/yuvalofek/30DaysOfCode) (Data skills, Machine Learning, Visualization, Coding Fundementals)** - Documented daily progress and worked through personal projects.
