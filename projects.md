@@ -1,4 +1,6 @@
 # My Projects:
+* :artificial_satellite: **[Improving Flood Maps by Increasing the Temporal Resolution of Satellites Using Hybrid Sensor Fusion - Video Interpolation Networks]([https://github.com/yuvalofek/SPACY](https://github.com/yuvalofek/HSHT-Satellite-Imagery-Synthesis)) (Deep Learning, Code Refactoring, Feature Engineering, Data Collection, Data Wrangling)** - Combining high temporal information from low-spatial-high-temporal (LSHT) resolution satellites and high resolution information from high-spatial-low-temporal (HSLT) satellites to synthesize high-spatial-high-temporal (HSHT) imagery.
+
 * :scroll: **[30DaysOfCode October 2021+](https://github.com/yuvalofek/30DaysOfCode) (Data skills, Machine Learning, Visualization, Coding Fundementals)** - Documented daily progress and worked through personal projects.
 
 * :artificial_satellite: **[S.P.P.P.A.C.Y.](https://github.com/yuvalofek/SPACY) (Deep Learning, Feature Engineering, Data Collection, Data Wrangling, Visualization)** - Full stack data science project to take satellite imagery and predict crop-yield on a per-pixel basis without being biased by current land usage [\[Final Presentation\]](https://www.slideshare.net/secret/NsCczeamHp8A9Z) [\[Report\]](https://github.com/yuvalofek/SPPPACY/blob/master/ECE471_Final_Paper.pdf).
