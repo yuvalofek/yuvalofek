@@ -25,7 +25,7 @@ I started my first job in Feb 2022! Since then, I have been putting all my effor
 * :moneybag: **[Financial Signal Processing (course)](https://github.com/yuvalofek/Financial-Signal-Processing) (Time-Series Analysis, Monte Carlo Simulations, Stochastic Differential Equations)** - Finance and financial data-based projects using signal processing. 
 
 
-### Read this far? Check out other work I have done [here](https://github.com/yuvalofek/yuvalofek/blob/main/other_work.md)
+### Read this far? Check out other work I have done [here](https://github.com/yuvalofek/yuvalofek/blob/main/projects.md)
 
 
 <!--
