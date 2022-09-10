@@ -1,4 +1,4 @@
-# Other Work I Have Done:
+# My Projects:
 * :scroll: **[30DaysOfCode October 2021+](https://github.com/yuvalofek/30DaysOfCode) (Data skills, Machine Learning, Visualization, Coding Fundementals)** - Documented daily progress and worked through personal projects.
 
 * :artificial_satellite: **[S.P.P.P.A.C.Y.](https://github.com/yuvalofek/SPACY) (Deep Learning, Feature Engineering, Data Collection, Data Wrangling, Visualization)** - Full stack data science project to take satellite imagery and predict crop-yield on a per-pixel basis without being biased by current land usage [\[Final Presentation\]](https://www.slideshare.net/secret/NsCczeamHp8A9Z) [\[Report\]](https://github.com/yuvalofek/SPPPACY/blob/master/ECE471_Final_Paper.pdf).
