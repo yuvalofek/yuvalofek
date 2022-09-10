@@ -1,7 +1,7 @@
 
 ### Hello there, I'm Yuval 👋
 
-I am a Data/Business Analyst at Morgan Stanley. I got my master's from [The Cooper Union](http://cooper.edu/welcome), where I worked on a improving flood-mapping tools by increasing the temporal resolution of satellite imagery using deep learning. I am fascinated by how we can use data to make the world a better place.
+I am a Data/Business Analyst at Morgan Stanley. I got my master's from [The Cooper Union](http://cooper.edu/welcome), where I worked on a [improving flood-mapping tools by increasing the temporal resolution of satellite imagery using deep learning](https://github.com/yuvalofek/HSHT-Satellite-Imagery-Synthesis). I am fascinated by how we can use data to make the world a better place.
 
 
 ### Get in touch with me 	:telephone_receiver:
@@ -25,7 +25,7 @@ I started my first job in Feb 2022! Since then, I have been putting all my effor
 * :moneybag: **[Financial Signal Processing (course)](https://github.com/yuvalofek/Financial-Signal-Processing) (Time-Series Analysis, Monte Carlo Simulations, Stochastic Differential Equations)** - Finance and financial data-based projects using signal processing. 
 
 
-### Read this far? Check out other work I have done [here](https://github.com/yuvalofek/yuvalofek/blob/main/projects.md)
+### Read this far? Check out other work I have done [here](https://github.com/yuvalofek/yuvalofek/blob/main/other_work.md)
 
 
 <!--
