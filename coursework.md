@@ -1,0 +1,12 @@
+# Graduate Courses I have Completed:
+1. Natural Language Processing (3 Credits)
+1. Deep Learning (3 Credits)
+1. Machine Learning for Remote Sensing (3 Credits)
+1. Frequentist Machine Learning (3 Credits)
+1. Data Science for Social Good (3 Credits)
+1. Smart Cities (3 Credits)
+1. Adaptive Filters (3 Credits)
+1. Financial Signal Processing (3 Credits)
+1. Digital Image Processing (3 Credits)
+1. Sports Medicine (3 Credits)
+1. Thesis (6 Credits)
