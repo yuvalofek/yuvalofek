@@ -1,7 +1,7 @@
 
 ### Hello there, I'm Yuval 👋
 
-I am a Data/Business Analyst at Morgan Stanley. I got my master's  from [The Cooper Union](http://cooper.edu/welcome) ([see coursework](https://github.com/yuvalofek/yuvalofek/blob/main/coursework.md)), where I worked on a [augmenting satellite imagery streams though cross-sensor, past, and future assisted deep-learning-based image synthesis ](https://github.com/yuvalofek/HSHT-Satellite-Imagery-Synthesis) (cross-sensor and temporal interpolation). I am fascinated by how we can use data to make the world a better place.
+I am a Data/Business Analyst at Morgan Stanley. I got my master's  from [The Cooper Union](http://cooper.edu/welcome) ([see coursework](https://github.com/yuvalofek/yuvalofek/blob/main/coursework.md)), where I worked on a [augmenting satellite imagery streams through cross-sensor, past, and future assisted deep-learning-based image synthesis ](https://github.com/yuvalofek/HSHT-Satellite-Imagery-Synthesis) (cross-sensor and temporal interpolation). I am fascinated by how we can use data to make the world a better place.
 
 
 ### Get in touch with me 	:telephone_receiver:
