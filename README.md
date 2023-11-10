@@ -1,15 +1,20 @@
 
 ### Hello there, I'm Yuval 👋
 
-I am a data scientist at Morgan Stanley focusing on NLP. I got my master's  from [The Cooper Union](http://cooper.edu/welcome) ([see coursework](https://github.com/yuvalofek/yuvalofek/blob/main/coursework.md)), where I worked on a [augmenting satellite imagery streams through cross-sensor, past, and future assisted deep-learning-based image synthesis ](https://github.com/yuvalofek/HSHT-Satellite-Imagery-Synthesis) (cross-sensor and temporal interpolation). I am fascinated by how we can use data to make the world a better place.
+I am a problem solver at heart and am always on the lookout for interesting problems and even more interesting/elegant solutions. As an engineer by schooling, I made the transition to the data field after falling in love with data-driven modeling, reasoning, and decision making. 
 
+I am a data scientist at Morgan Stanley focusing on NLP and helping research new tools and practices to generate $\alpha$. I got my master's from [The Cooper Union](http://cooper.edu/welcome) ([see coursework](https://github.com/yuvalofek/yuvalofek/blob/main/coursework.md)), where I worked on a [augmenting satellite imagery streams through cross-sensor, past, and future assisted deep-learning-based image synthesis](https://github.com/yuvalofek/HSHT-Satellite-Imagery-Synthesis) (synthesizing high resolution satellite images at un-imaged times by levaraging past/future imagery and a 2nd satellite looking at the same location). 
+
+I get excited about learning new things, cooking/food, and the potential of data. 
 
 ### Get in touch with me 	:telephone_receiver:
-Find me on [Linkedin](https://www.linkedin.com/in/yuval-epstain-ofek-6647a314a/).
+Find me on [Linkedin](https://www.linkedin.com/in/yuvalofek).
 
 
 ### Current Work:
-I started my first job in Feb 2022! Since then, I have been putting all my efforts into figuring out what is valuble (for me) and what I can do to ensure I do more things I care about and less things I don't.
+Learning to learn outside of the schooling system and focusing on becoming a more well-rounded, thoughtful person. 
+
+> School was great for me, but it also only exposed me to very niche information and ideas. After graduating and pushing to continue down a similar route to my education, I felt myself growing complacent. It felt too comfortable. I was going deeper and deeper into known territory and confirming my understandings. I was going nowhere. I am now pushing to do differently - to challenge my comfort zone with what I learn, to re-consider my ideas and beliefs, and to work on being more thoughtful and openminded.
 
 ### Some of my favorite work:
 * :scroll: **[30DaysOfCode October 2021+](https://github.com/yuvalofek/30DaysOfCode) (Data skills, Machine Learning, Visualization, Coding Fundementals)** - Documented daily progress and worked through personal projects.
