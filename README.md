@@ -13,7 +13,7 @@ When I'm not diving into data, I'm exploring the world of cooking and always loo
 Find me on [Linkedin](https://www.linkedin.com/in/yuvalofek).
 
 
-### Current Work:
+### Current Focus
 I'm focused on pushing my boundaries and expanding my thinking, constantly challenging myself to learn and grow outside the comfort zone of traditional education and professional routines.
 
 ### Read this far? Check out the full list of my projects [here](https://github.com/yuvalofek/yuvalofek/blob/main/projects.md)
