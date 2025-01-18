@@ -9,7 +9,7 @@ Currently, I'm a Sr. Data Scientist II at KKR, where I develop advanced AI model
 My passion for data science is matched by my drive for continuous learning and exploring new methodologies. I hold a master’s degree from [The Cooper Union](http://cooper.edu/welcome) ([see coursework](https://github.com/yuvalofek/yuvalofek/blob/main/coursework.md)), where I worked on augmenting satellite imagery through [deep-learning-based synthesis](https://github.com/yuvalofek/HSHT-Satellite-Imagery-Synthesis).
 
 When I'm not diving into data, I'm exploring the world of cooking and always looking for new ways to expand my knowledge.
-### Get in touch with me 	:telephone_receiver:
+### Get in touch with me
 Find me on [Linkedin](https://www.linkedin.com/in/yuvalofek).
 
 
